@@ -1,2 +1,11 @@
+# VS Code
 .vscode
+
+# Visual Studio
+.vs
+*.sln
+*.vcxproj*
+x64
+
+# For security
 kakao
