@@ -1,11 +1,6 @@
-# VS Code
+# Dev env
 .vscode
-
-# Visual Studio
-.vs
-*.sln
-*.vcxproj*
-x64
+.venv
 
 # For security
-kakao
+test
